@@ -1,0 +1,6 @@
+{
+  "name": "@droetcker/string-extension",
+  "version": "0.1.1",
+  "repository": "DrOetcker/String-Extension",
+  "main": "index.js"
+}
