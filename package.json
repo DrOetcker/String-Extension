@@ -1,9 +1,9 @@
 {
   "name": "@droetcker/string-extension",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "repository": {
     "type": "git",
     "url": "https://github.com/DrOetcker/String-Extension.git"
   },
-  "copy": "cpx \"index.d.ts\" "
+  "copy": "cpx \"Content/**/*.ts\" ../src"
 }
